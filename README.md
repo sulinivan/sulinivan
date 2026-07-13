@@ -5,7 +5,7 @@
 Linux • Kubernetes • CI/CD • Infrastructure as Code
 
 Москва  
-Email: sulinivan@ya.ru  
+Email: greensulin@ya.ru  
 GitHub: github.com/sulinivan  
 Telegram: @sulin_ivan
 
